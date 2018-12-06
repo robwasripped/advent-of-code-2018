@@ -63,7 +63,7 @@ class TimeTracker {
     }
 }
 
-$fileContents = file_get_contents(__DIR__ . '/input');
+$fileContents = file_get_contents($inputFilename);
 
 $records = explode("\n", $fileContents);
 

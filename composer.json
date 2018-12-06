@@ -1,0 +1,14 @@
+{
+    "name": "rob/advent-of-code-2018",
+    "type": "project",
+    "require-dev": {
+        "behat/behat": "^3.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rob",
+            "email": "email@roberttreacy.com"
+        }
+    ]
+}
